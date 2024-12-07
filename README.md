@@ -69,5 +69,5 @@ npx tailwindcss -i ./src/css/input.css -o ./public/css/output.css --watch
 Tambahin di bagian head
 
 ```html
-<link href="public/css/output.css" rel="stylesheet" />
+<link href="css/output.css" rel="stylesheet" />
 ```
